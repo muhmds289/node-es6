@@ -1,0 +1,24 @@
+{
+  "name": "node-es6",
+  "version": "1.0.0",
+  "description": "profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhmds289/node-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhmds289/node-es6/issues"
+  },
+  "homepage": "https://github.com/muhmds289/node-es6#readme",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4"
+  }
+}
